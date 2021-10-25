@@ -22,4 +22,5 @@ def main():
     emitter.writeFile() # Write the output to file.
     print("Compiling completed.")
 
-main()
+if __name__ == "__main__":
+    main()
