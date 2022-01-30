@@ -3,8 +3,6 @@ from emit import *
 from parse import *
 import sys
 
-#http://web.eecs.utk.edu/~azh/blog/teenytinycompiler1.html
-
 def main():
     print("Teeny Tiny Compiler")
 
